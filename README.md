@@ -98,7 +98,7 @@ pip install -r requirements.txt
 jupyter notebook
             </pre>
         </li>
-        <li>(Opcional) Execute o aplicativo para previsões:
+        <li> Execute o aplicativo para previsões:
             <pre>
 streamlit run app.py
             </pre>
