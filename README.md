@@ -112,7 +112,7 @@ streamlit run app.py
 
  <h2>Contato</h2>
     <p>
-        Se tiver dúvidas ou sugestões, me encontre no LinkedIn: <a href="#">[Seu Perfil LinkedIn](https://www.linkedin.com/in/renan-danilo-3098b01aa/)</a>.
+        Se tiver dúvidas ou sugestões, me encontre no LinkedIn: <a href="#">[https://www.linkedin.com/in/renan-danilo-3098b01aa/)</a>.
     </p>
 </body>
 </html>
