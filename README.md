@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <title>Machine Learning - Previsão de Rotatividade de Clientes</title>
-</head>
+
 <body>
     <h1>Machine Learning - Previsão de Rotatividade de Clientes</h1>
     <p>
