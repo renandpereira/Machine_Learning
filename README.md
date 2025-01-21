@@ -9,7 +9,7 @@
         Este projeto utiliza técnicas de <strong>Machine Learning</strong> para prever a probabilidade de rotatividade de clientes (<em>churn</em>) em uma base de dados de clientes. Ele foi desenvolvido para ajudar empresas a identificar clientes com maior risco de cancelamento e, assim, tomar ações proativas para melhorar a retenção.
     </p>
 
-    <h2>Objetivo do Projeto</h2>
+ <h2>Objetivo do Projeto</h2>
     <p>
         O objetivo é construir um modelo preditivo que:
     </p>
@@ -19,7 +19,7 @@
         <li>Forneça insights para orientar decisões estratégicas de retenção.</li>
     </ul>
 
-    <h2>Etapas do Projeto</h2>
+ <h2>Etapas do Projeto</h2>
     <ol>
         <li>
             <strong>Coleta e Análise Exploratória de Dados (EDA):</strong>
@@ -57,7 +57,7 @@
         </li>
     </ol>
 
-    <h2>Ferramentas Utilizadas</h2>
+<h2>Ferramentas Utilizadas</h2>
     <ul>
         <li><strong>Linguagem de Programação:</strong> Python</li>
         <li><strong>Bibliotecas:</strong> Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost</li>
@@ -66,7 +66,7 @@
         <li><strong>(Opcional) Deploy:</strong> Streamlit ou Flask</li>
     </ul>
 
-    <h2>Resultados Obtidos</h2>
+<h2>Resultados Obtidos</h2>
     <ul>
         <li><strong>Desempenho do Modelo:</strong></li>
         <ul>
@@ -81,7 +81,7 @@
         </ul>
     </ul>
 
-    <h2>Como Reproduzir este Projeto</h2>
+<h2>Como Reproduzir este Projeto</h2>
     <ol>
         <li>Clone o repositório:
             <pre>
@@ -105,12 +105,12 @@ streamlit run app.py
         </li>
     </ol>
 
-    <h2>Contribuições</h2>
+<h2>Contribuições</h2>
     <p>
         Sinta-se à vontade para contribuir com melhorias no projeto! Abra um <em>pull request</em> ou envie sugestões na seção de <em>issues</em>.
     </p>
 
-    <h2>Contato</h2>
+ <h2>Contato</h2>
     <p>
         Se tiver dúvidas ou sugestões, me encontre no LinkedIn: <a href="#">Seu Perfil LinkedIn</a>.
     </p>
