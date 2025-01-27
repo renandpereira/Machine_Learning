@@ -10,10 +10,8 @@ from xgboost import XGBClassifier
 from sklearn.metrics import classification_report, confusion_matrix, roc_auc_score, roc_curve, f1_score, balanced_accuracy_score
 from imblearn.over_sampling import SMOTE
 
-# 1. Carregar os dados
 data = pd.read_csv('C:/Users/IMILE-TI/Downloads/projeto_de_Regressão/WA_Fn-UseC_-Telco-Customer-Churn.csv')
 
-# 2. Pré-processamento
 # Converter TotalCharges para numérico e preencher valores ausentes com 0
 data['TotalCharges'] = pd.to_numeric(data['TotalCharges'], errors='coerce').fillna(0)
 
